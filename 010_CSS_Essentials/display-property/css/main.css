@@ -1,0 +1,40 @@
+.puppy {
+    width: 200px;
+    height: 200px;
+    border: 5px solid red;
+    border-radius: 100%;
+    background-image: url("../../../images/german_shepard.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: inline-block;
+
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    border: 5px solid red;
+    border-radius: 100%;
+    background-image: url("../../../images/german_shepard.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* display: inline-block; */
+
+}
+
+img {
+    border: 10px groove orangered;
+    border-radius: 100%;
+}
+
+.dogone {
+    border: 10px dashed green;
+}
+
+.dogtwo {
+    border: 10px groove blueviolet;
+}
+
+.dogthree {
+    border: 10px groove red;
+}
