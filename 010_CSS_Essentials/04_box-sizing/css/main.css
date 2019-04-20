@@ -23,10 +23,12 @@ div {
 }
 
 img {
+    width: 200px;
     border: 10px groove orangered;
-    border-radius: 100%;
+    box-sizing: border-box;
+    /* border-radius: 100%; */
     padding: 20px;
-    margin: 20px;
+    /* margin: 20px; */
 }
 
 .dogone {
