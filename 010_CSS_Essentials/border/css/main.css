@@ -9,13 +9,13 @@ img {
 }
 
 .dogone {
-    border: 10px groove yellowgreen;
+    border: 10px dashed green;
 }
 
-img {
-    border: 10px groove orangered;
+.dogtwo {
+    border: 10px groove blueviolet;
 }
 
-img {
-    border: 10px groove orangered;
+.dogthree {
+    border: 10px groove red;
 }
