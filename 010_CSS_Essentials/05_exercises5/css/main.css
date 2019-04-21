@@ -1,0 +1,11 @@
+div {
+    width: 500px;
+    height: 400px;
+    background-color: aqua;
+    border-radius: 20%;
+    border: 20px groove goldenrod;
+    background-image: url("../../../images/cat.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
