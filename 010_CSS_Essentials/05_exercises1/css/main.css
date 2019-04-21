@@ -1,8 +1,6 @@
 div {
     width: 400px;
     height: 400px;
-    border-radius: 50%;
     background-color: aqua;
-    border: 20px groove goldenrod;
 
 }
