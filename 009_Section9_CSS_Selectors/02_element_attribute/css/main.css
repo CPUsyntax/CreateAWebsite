@@ -1,0 +1,21 @@
+@import url("mcleod-reset.css");
+
+
+/* class: */
+.emphasize {
+    color: blue;
+}
+
+/* id */
+#promote {
+    color: orange;
+}
+
+[contenteditable] {
+    color: red;
+    border: 1px dashed black;
+}
+
+[target=_blank] {
+    color: chocolate;
+}
