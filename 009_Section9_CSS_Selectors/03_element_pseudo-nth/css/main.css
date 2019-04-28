@@ -1,14 +1,17 @@
 @import url("mcleod-reset.css");
 
-a {
-    font-size: 50px
+body {
+    font-size: 36px;
 }
 
-a:focus {
+li:first-child {
     color: red;
 }
 
-input:focus {
-    border: 2px solid green;
-    border-radius: 50px;
+li:last-child {
+    color: blue;
+}
+
+ul:first-child {
+    background-color: yellow;
 }
