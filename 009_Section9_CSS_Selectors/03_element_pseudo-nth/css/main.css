@@ -15,3 +15,7 @@ li:last-child {
 ul:first-child {
     background-color: yellow;
 }
+
+li:nth-child(odd) {
+    background-color: green;
+}
