@@ -19,3 +19,11 @@ ul:first-child {
 li:nth-child(odd) {
     background-color: green;
 }
+
+tr:nth-child(even) {
+    background-color: rgba(128, 128, 128, 0.99)
+}
+
+tr:nth-child(odd) {
+    background-color: rgba(21, 116, 34, 0.897)
+}
