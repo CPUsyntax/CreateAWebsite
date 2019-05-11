@@ -1,0 +1,9 @@
+@import url("mcleod-reset.css");
+
+body {
+    font-size: 36px;
+}
+
+article:only-child {
+    background-color: red;
+}
