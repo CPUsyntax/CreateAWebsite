@@ -1,0 +1,32 @@
+div {
+    border: 1px solid red;
+    border-radius: 90%;
+    background-image:  url("../img/IMG-4144r1200x1597.jpg");
+    background-position: 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 200px;
+}
+
+img {
+    border: 10px groove orangered;
+    height: 300px;
+
+}
+.picone {
+    border: 10px dashed orangered;
+    height: 300px;
+
+}
+.pictwo {
+    border: 10px dotted orangered;
+    height: 300px;
+
+}
+.picthree {
+    border: 10px double orangered;
+    height: 300px;
+
+}
+  
