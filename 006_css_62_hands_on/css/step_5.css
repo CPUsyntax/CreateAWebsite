@@ -1,10 +1,23 @@
 /* (3) Take the code from “Hands-On Exercise (2)” and give the div a grooved border which is 20px. */
-div {
+/*
+(5) Take the code from “Hands-On Exercise (3)” and give the div a background image by using the following CSS declarations:
+background-image: url("path/to/some/image.png");
+background-size: cover;
+background-repeat: no-repeat;
+*/
+.base {
     background-color: whitesmoke;
+    background-image: url(../img/IMG-4269_cropped3.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
     border: orangered 20px ridge;
     border-radius: 20%;
-    margin: 10px;
+    margin: 20px;
     height: 200px;
-    width: 200px;
+    width: 350px;
     text-align: center;
+}
+
+.hideme {
+    visibility: hidden;
 }
