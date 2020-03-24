@@ -1,0 +1,10 @@
+/* (2) Take the code from “Hands-On Exercise (1)” and round the corners of the div. */
+div {
+    background-color: whitesmoke;
+    border: orangered 10px solid;
+    border-radius: 20%;
+    margin: 10px;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
