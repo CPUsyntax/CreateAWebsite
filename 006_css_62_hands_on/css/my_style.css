@@ -1,0 +1,11 @@
+div {
+    background-color: red;
+    border: black 20px dotted;
+    border-radius: 50pxp[] ;
+    box-sizing: border-box;
+    height: auto;
+    padding: 20px;
+    width: 50%;
+/* (3) Take the code from “Hands-On Exercise (2)” and give the div a grooved border which is 20px. */
+
+}

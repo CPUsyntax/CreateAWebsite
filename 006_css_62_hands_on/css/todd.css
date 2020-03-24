@@ -1,0 +1,39 @@
+div {
+    border: 1px solid red;
+    border-radius: 90%;
+    background-image:  url("../img/IMG-4269_cropped3.jpg");
+    background-position: 65%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* this lesson */
+    /* display: none; */
+    /* display: inline; */
+    display: inline-block;
+    height: 300px;
+    width: 300px;
+}
+
+img {
+    border: 10px groove orangered;
+    height: 300px;
+    /* padding: 50px; */
+    margin: 40px;
+    box-sizing: border-box;
+
+}
+.picone {
+    border: 10px dashed orangered;
+    height: 300px;
+
+}
+.pictwo {
+    border: 10px dotted orangered;
+    height: 300px;
+
+}
+.picthree {
+    border: 10px double orangered;
+    height: 300px;
+
+}
+  
