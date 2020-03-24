@@ -1,0 +1,9 @@
+/* (3) Take the code from “Hands-On Exercise (2)” and give the div a grooved border which is 20px. */
+div {
+    background-color: whitesmoke;
+    border: orangered 20px ridge;
+    border-radius: 20%;
+    margin: 10px;
+    height: 200px;
+    width: 200px;
+    text-align: center;
