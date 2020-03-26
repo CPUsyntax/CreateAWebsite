@@ -16,9 +16,9 @@ a:visited {
 }
 
 a:hover {
-    color: red;
+    color: yellow;
 }
 
 a:active {
-    color: yellow;
+    color: black;
 }
