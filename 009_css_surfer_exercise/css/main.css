@@ -1,23 +1,24 @@
 html {
-    background-color: blue;
+    background-color: dodgerblue;
 }
 body {
-    background-color: rgba(124, 190, 18, 0.904);
+    background-color: #00c957; 
     border: 5px solid black;
-    margin: 0 20%;
+    margin: 0 auto;
+    width: 60%;
 }
 img {
     display: block;
-    border: yellowgreen groove 20px;
-    border-radius: 50%;
-    width: 500px;
+    border: gold ridge 20px;
+    border-radius: 100%;
+    width: 60%;
     margin: 2% auto;
 }
-.header001 {
-    color: blue;
+#header001 {
+    color: #0266c8;
 }
-.header002 {
-    color: red;
+#header002 {
+    color: #f90101;
 }
 p {
     font-size: 121%;
