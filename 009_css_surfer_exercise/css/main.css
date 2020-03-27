@@ -1,0 +1,24 @@
+html {
+    background-color: blue;
+}
+body {
+    background-color: rgba(124, 190, 18, 0.904);
+    border: 5px solid black;
+    margin: 0 20%;
+}
+img {
+    display: block;
+    border: yellowgreen groove 20px;
+    border-radius: 50%;
+    width: 500px;
+    margin: 2% auto;
+}
+.header001 {
+    color: blue;
+}
+.header002 {
+    color: red;
+}
+p {
+    font-size: 121%;
+}
