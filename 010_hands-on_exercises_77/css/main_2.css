@@ -1,0 +1,12 @@
+html {
+    background-color: dodgerblue;
+}
+body {
+    background-color: #00c957; 
+    border: 5px solid black;
+    margin: 0 auto;
+    width: 60%;
+}
+.item3, .item4, .item5 {
+    color: yellow;
+}
