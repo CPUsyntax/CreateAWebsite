@@ -1,0 +1,22 @@
+html {
+    background-color: dodgerblue;
+}
+body {
+    background-color: #00c957; 
+    border: 5px solid black;
+    margin: 0 auto;
+    width: 60%;
+}
+h1 {
+    /* margin: 0 auto; */
+    text-align: center;
+}
+/* 
+div p all p children of div
+div > p { immediate-children
+div ~ p { all-siblings
+div + p { immediate-siblings
+*/
+div > p {
+    color:yellow;
+}
